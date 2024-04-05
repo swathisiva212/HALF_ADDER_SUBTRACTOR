@@ -78,3 +78,4 @@ Developed by: swathi.s RegisterNumber: 212223040219*/
 ![image](https://github.com/swathisiva212/HALF_ADDER_SUBTRACTOR/assets/155249892/9fe254ff-bb14-4156-874f-4cc0a3b0a493)
 
 **Result:**
+The code is excecuted successfully.
